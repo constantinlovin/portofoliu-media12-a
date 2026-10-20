@@ -4,7 +4,7 @@
 Teme și proiecte, clasa a XII-a, Producție media,
 Liceul Tehnologic „Grigore C. Moisil” Buzău.
 
-Site :<https://constantinlovin.github.io/portofoliu-media/>
+Site :https://constantinlovin.github.io/portofoliu-media12-a/
 
 ## Lucrări
 
